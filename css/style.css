@@ -4390,9 +4390,9 @@ textarea.form-control {
   color: var(--color-secondary) !important;
 }
 
-.active {
+/* .active {
   color: var(--color-secondary) !important;
-}
+} */
 
 .logo {
   max-height: 90px;
@@ -4429,4 +4429,8 @@ textarea.form-control {
     position: relative !important;
     background-color: #0d1128 !important;
   }
+}
+
+nav .navbar-nav .nav-item .nav-link.active {
+  color: #e4bd3e !important;
 }
