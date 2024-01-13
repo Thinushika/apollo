@@ -4397,6 +4397,7 @@ textarea.form-control {
 .logo {
   max-height: 90px;
 }
+
 .cardDesign{
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16) !important;
   border-radius: 20px;
@@ -4416,4 +4417,16 @@ textarea.form-control {
 }
 .owl-carousel:hover .owl-nav .owl-next, .owl-carousel:hover .owl-nav .owl-prev{
   outline: none !important;
+}
+.navbar-toggler{
+  outline: none !important;
+}
+@media screen and (max-width: 600px) {
+  .logo {
+    max-height: 60px !important;
+  }
+  .navbar{
+    position: relative !important;
+    background-color: #0d1128 !important;
+  }
 }
