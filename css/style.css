@@ -4378,8 +4378,8 @@ textarea.form-control {
 
 
 .navbar {
-  position: absolute !important;
-  top: 0;
+  position: relative !important;
+  background-color: #0d1128 !important;
   z-index: 999;
 }
 
