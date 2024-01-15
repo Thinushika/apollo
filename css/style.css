@@ -4410,7 +4410,7 @@ textarea.form-control {
  border-top-right-radius: 20px !important;
 }
 .cardDesign .text{
-  min-height: 250px !important;
+  min-height: 290px !important;
 }
 
 #courcesSlider .owl-carousel .owl-item{
@@ -4432,7 +4432,7 @@ nav .navbar-nav .nav-item .nav-link.active {
   position: relative;
 }
 .hero-sec{
-  width: 100vw;
+  width: 100% !important;
   height: 90vh;
   background-position: center;
   background-repeat: no-repeat;
